@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kaintura</h1>
-<h3 align="center">C++ | Python | Open source contributor</h3>
+<h3 align="center">C++ | Python | Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=probatio-diabolica&label=Profile%20views&color=0e75b6&style=flat" alt="probatio-diabolica" /> </p>
 
