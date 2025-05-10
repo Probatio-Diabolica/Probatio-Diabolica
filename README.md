@@ -1,6 +1,10 @@
 ### Hello there
 
 I'm a software engineering student from UU.
+I love :
+>* Low level stuff
+>* Linux
+>* Computer Networking
 
 ![Alt](https://komarev.com/ghpvc/?username=Probatio-Diabolica&&color=bf526b&label=Profile%20views%20)
 
