@@ -1,4 +1,4 @@
-### Hello there! visiter
+### Hello there, valued visitor! It's a pleasure to have you here.
 
 I'm a software engineering student from UU.
 I love :
