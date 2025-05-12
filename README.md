@@ -4,8 +4,7 @@ I'm a software engineering student from UU.
 I love :
 >* Exploring how things work.
 >* Linux.
->* Making new stuff
->* ...and much more.
+>* Making new stuff.
 
 ![Alt](https://komarev.com/ghpvc/?username=Probatio-Diabolica&&color=bf526b&label=Profile%20views%20)
 
