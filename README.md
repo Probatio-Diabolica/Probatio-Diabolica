@@ -1,9 +1,12 @@
 ### About me:
 I'm a software engineering student from UU.
 I love :
->* Exploring how things work.
->* Linux.
->* Making cool stuff.
+- Exploring how things work.
+- Making cool stuff.
+- Tinkering around my Arch Installation
+- Linux.
+- Simplicity.
+
 
 Below is the list of stuff I have worked/working upon:
   - [Puck](https://github.com/Probatio-Diabolica/Puck) - A dynamically typed language with its own interpreter
