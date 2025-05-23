@@ -2,7 +2,7 @@
 I'm a software engineering student from UU.
 I love :
 - Exploring how things work.
-- Making cool stuff.
+- Building cool stuff.
 - Tinkering around my Arch Installation
 - Linux.
 - Simplicity.
