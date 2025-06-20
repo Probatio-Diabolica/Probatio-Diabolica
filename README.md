@@ -17,7 +17,7 @@ Below is the list of stuff I have worked/am working on:
 
 ...and many more
 
-## Open Source COntributions [C++,Python]
+## Open Source Contributions [C++,Python]
 [Mozilla](https://www.mozilla.org/en-US/?v=c)
 - Removed deprecated C++ internals from Firefox. Refactored legacy string logic, cleaned up tech debt, and successfully landed the patch after review.
 
