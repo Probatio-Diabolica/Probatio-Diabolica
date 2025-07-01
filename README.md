@@ -8,8 +8,8 @@ I love :
 - Simplicity.
 
 Below is the list of stuff I have worked/am working on:
-  - [Violet](https://github.com/Probatio-Diabolica/Violet) - Voilet is a Lightweight redis server. To interact with Violet, you'll need a compatible client - that's where Red comes in. You can find the [Red]([Red](https://github.com/Probatio-Diabolica/Red)) client below.
-  - [Red](https://github.com/Probatio-Diabolica/Red) - Red is a Redis CLI implementation supporting the complete RESP protocol.
+  - [Violet](https://github.com/Probatio-Diabolica/Violet) - Voilet is a Lightweight RESP database server. To interact with Violet, you'll need a compatible client - that's where Red comes in. You can find the [Red]([Red](https://github.com/Probatio-Diabolica/Red)) client below.
+  - [Red](https://github.com/Probatio-Diabolica/Red) - Red is a client CLI for Violet supporting the complete RESP protocol.
   - [Puck](https://github.com/Probatio-Diabolica/Puck) - A dynamically typed language with its own interpreter
   - [2who_communication](https://github.com/Probatio-Diabolica/2Who_Communication) - A chatting Client - Server application that I made after taking inspiration from IRC chatrooms.
   - [WebServer](https://github.com/Probatio-Diabolica/WebServer) - A simple webServer, it just sends some message to the client. Ofcourse the client is going to be your Webbrowser. 
