@@ -2,7 +2,7 @@
 I'm a software engineering student from UU.
 I love :
 - Commiting to open source projects
-- Backend engineering/ System development.
+- Backend engineering/System development.
 - Tinkering around my Arch Installation
 - Linux.
 - Simplicity.
