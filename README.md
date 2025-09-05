@@ -1,6 +1,6 @@
 ### About me:
-I'm a software engineering student from UU.
-I love :
+I'm a software engineering student.
+And I love :
 - Commiting to open source projects
 - Backend engineering/System development.
 - Tinkering around my Arch Installation
